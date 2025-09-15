@@ -1,0 +1,18 @@
+[project]
+name = "evslm"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.9"
+dependencies = [
+    "accelerate>=1.8.1",
+    "evaluate>=0.4.4",
+    "jupyterlab>=4.4.4",
+    "matplotlib>=3.9.4",
+    "ollama>=0.5.3",
+    "pandas>=2.3.1",
+    "pdf2image>=1.17.0",
+    "pytesseract>=0.3.13",
+    "scikit-learn>=1.6.1",
+    "torch>=2.7.1",
+    "transformers>=4.53.1",
+]
